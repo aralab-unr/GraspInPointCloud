@@ -76,7 +76,7 @@ Given the point cloud data of objects, the desired grasp pose, and the model of 
 <img src="/images/robot.gif" width="450" />  
 </p>
 
-Full implementation video on youtube channel of Advanced Robotics and Automation (ARA) Lab:
+Full implementation video on youtube channel of Advanced Robotics and Automation (ARA) Lab (clik on the video, youtube link will be opened):
 <p align="center">
 <a href="https://www.youtube.com/watch?v=ujorCGl5Ieo" 
 target="_blank"><img src="/images/robot.gif" width="450" 
